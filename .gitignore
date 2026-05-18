@@ -1,0 +1,7 @@
+Data/ai_images
+Data/real_art
+.claude/settings.local.json
+Module/dataset.csv
+App/features_extracted.csv
+Module/features_extracted.csv
+*.csv
