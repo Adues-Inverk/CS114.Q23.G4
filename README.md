@@ -1,4 +1,4 @@
-# AI Image Detection and Feature Extraction
+# AI Art Detection and Feature Extraction
 
 This project focuses on detecting and analyzing features in AI-generated and real artwork images using machine learning techniques.
 
